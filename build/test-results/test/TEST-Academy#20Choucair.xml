@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-30T19:03:15" hostname="LAPTOP-THCUS655" time="23.583">
+  <properties/>
+  <testcase name="Search for a automation course" classname="Academy Choucair" time="23.583"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@19651d71
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@33b577c8
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@55a02359
+dic 30, 2021 2:03:16 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 45935
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+dic 30, 2021 2:03:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2c989370
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@36121be3
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@30051d7d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@664c3732
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2caf1d9c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5cc2af31
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2ee7fd57
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@49a8e606
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@f22d118
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@48222ca9
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course, Lorena clicks on click to search the course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2683009d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course, Lorena clicks on click to search the course, Lorena clicks on click to select the course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course, Lorena clicks on click to search the course, Lorena clicks on click to select the course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course, Lorena clicks on click to search the course, Lorena clicks on click to select the course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@a75b51e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4262ca65
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course, Lorena clicks on click to search the course, Lorena clicks on click to select the course]], Then he finds the course called resources Workshop de Automatizacion
+| strFinalText |
+| Workshop de Automatización | [Then final]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course, Lorena clicks on click to search the course, Lorena clicks on click to select the course]], Then he finds the course called resources Workshop de Automatizacion
+| strFinalText |
+| Workshop de Automatización | [Then final]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course, Lorena clicks on click to search the course, Lorena clicks on click to select the course]], Then he finds the course called resources Workshop de Automatizacion
+| strFinalText |
+| Workshop de Automatización | [Then final]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course, Lorena clicks on click to search the course, Lorena clicks on click to select the course]], Then he finds the course called resources Workshop de Automatizacion
+| strFinalText |
+| Workshop de Automatización | [Then final]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for a automation course:Given than Lorena wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1121939957 | Choucair2021* | [Lorena open up [Lorena opens the Choucair academy page], Lorena login [Lorena clicks on button that show us the form to login, Lorena enters '1121939957' into where do we write the user, Lorena enters 'Choucair2021*' into where do we write the password, Lorena clicks on button to confirm login]], When he search for the course Workshop de Automatizacion on the Choucair academy platform
+| strCourse |
+| Workshop de Automatizacion | [Lorena search [Lorena clicks on cursos y certificaciones Choucair, Lorena enters 'Workshop de Automatizacion' into search course, Lorena clicks on click to search the course, Lorena clicks on click to select the course]], Then he finds the course called resources Workshop de Automatizacion
+| strFinalText |
+| Workshop de Automatización | [Then final]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Search for a automation course
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
